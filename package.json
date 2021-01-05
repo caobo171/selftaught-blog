@@ -5,7 +5,7 @@
   "dependencies": {
     "@types/styled-components": "^4.4.0",
     "Dante2": "0.5.0-rc16",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "firebase": "^7.5.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
